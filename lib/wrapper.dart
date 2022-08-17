@@ -1,4 +1,4 @@
-import 'package:firebase_anonymous_login/screens/landingPage.dart';
+import 'package:firebase_anonymous_login/pages/landingPage.dart';
 import 'package:flutter/material.dart';
 
 class Wrapper extends StatelessWidget {

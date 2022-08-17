@@ -1,4 +1,4 @@
-import 'package:firebase_anonymous_login/screens/wrapper.dart';
+import 'package:firebase_anonymous_login/wrapper.dart';
 import 'package:flutter/material.dart';
 
 void main() {
